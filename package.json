@@ -1,0 +1,9 @@
+{
+  "name": "stremio-direct-addon",
+  "version": "1.0.0",
+  "dependencies": {
+    "stremio-addon-sdk": "^1.6.10",
+    "axios": "^1.6.8",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
